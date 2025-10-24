@@ -2,3 +2,5 @@ git clone
 git add .
 git commit -m ""
 git push
+git branche "nom de branche"
+git switch "nom de branche"
